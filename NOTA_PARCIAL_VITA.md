@@ -1,15 +1,4 @@
-## Escala sugerida para cada item:
-
-| Conceito                        | Nota sugerida |
-| ------------------------------- | ------------: |
-| Excelente / completo            |      9,0 a 10 |
-| Muito bom, com pequenos ajustes |     8,0 a 8,9 |
-| Bom, mas com lacunas formais    |     7,0 a 7,9 |
-| Parcial                         |     5,0 a 6,9 |
-| Insuficiente                    |     2,0 a 4,9 |
-| Ausente                         |       0 a 1,9 |
-
-## Aplicação ao Projeto VITA
+## Avaliação Parcial do Projeto VITA
 
 | Item avaliado                              | Peso | Avaliação qualitativa                                                         | Nota sugerida |
 | ------------------------------------------ | ---: | ----------------------------------------------------------------------------- | ------------: |
