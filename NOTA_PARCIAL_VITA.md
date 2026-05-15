@@ -1,6 +1,6 @@
 ## Avaliação Parcial do Projeto VITA
 
-| Item avaliado                              | Peso | Avaliação qualitativa                                                         | Nota sugerida |
+| Item avaliado                              | Peso | Avaliação qualitativa                                                         | Nota          |
 | ------------------------------------------ | ---: | ----------------------------------------------------------------------------- | ------------: |
 | Conhecimento do Problema                   |    1 | Bom atendimento, com pequenas ausências formais                               |           8,5 |
 | Análise de Concorrência                    |    2 | Parcial; faltam prints incorporados e análise mais forte de padrões           |           5,5 |
